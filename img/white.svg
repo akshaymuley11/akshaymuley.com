@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 500px;
+        fill: #fff;
+        font-family: "Alaskan malamute";
+      }
+    </style>
+  </defs>
+  <text id="am" class="cls-1" x="246" y="624">am</text>
+</svg>
